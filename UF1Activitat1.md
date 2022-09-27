@@ -1,6 +1,6 @@
 # ACTIVITAT 1: RECERCA DE LLENGUATGES DE PROGRAMACIÓ
 
-### PYTHON  
+## PYTHON  
 
 Python es un llenguatge utilitzat en múltiples camps com poden ser la intel·ligència artificial, desenvolupament web o desenvolupament de videojocs. Es un llenguatge d’alt nivell interpretat, orientat a objectes.
 
@@ -14,7 +14,7 @@ Les ofertes de treball relacionades amb Python son molt variades i de diferents 
 ![](imatges/PythonHW.png)
 **Hola User**  
 ![](imatges/PythonHU.png)
-### JAVA  
+## JAVA  
 
 Java es un llenguatge orientat a objectes que ens permet desenvolupar aplicacions mòbils, disseny web o accedir a bases de dades entre d’altres usos.
 
@@ -33,14 +33,14 @@ Les ofertes de treball relacionades amb aquest llenguatge demanen en la majoria 
 ![](imatges/JavaHU2.png)
 ![](imatges/JavaHU.png) 
 
-### JAVASCRIPT
+## JAVASCRIPT
 
 **Hola Món**  
 ![](imatges/JavaScriptHW.png)  
 **Hola User**  
 ![](imatges/JavaScriptHU.png) 
 
-### C#
+## C#
 
 **Hola Món**  
 ![](imatges/CHW.png)  
