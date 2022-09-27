@@ -27,17 +27,20 @@ Algunes de les principals avantatges que ens ofereix Java són la seva versatili
 Les ofertes de treball relacionades amb aquest llenguatge demanen en la majoria dels casos un mínim de 2 anys d'experiència, els sou oferit oscil·la entre els 20.000 i els 40.000 euros. La majoria d’ofertes donen l’opció de treballar en remot.
 
 **Hola Món**  
-![]()
-**Hola User**  
-![]()
+![](imatges/JavaHW.png)  
+![](imatges/JavaHW2.png)  
+**Hola User**    
+![](imatges/JavaHU2.png)
+![](imatges/JavaHU.png) 
 
 ### JAVASCRIPT
 
 **Hola Món**  
-![]()
+  
+  
 **Hola User**  
-![](imatges/JavaHU.png)  
-![](imatges/JavaHU2.png)
+ 
+
 
 ### C#
 
