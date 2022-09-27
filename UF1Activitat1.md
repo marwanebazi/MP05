@@ -11,9 +11,9 @@ Algunes de les moltes avantatges que ens ofereix Python son la seva gran compati
 Les ofertes de treball relacionades amb Python son molt variades i de diferents sectors, algunes estan relacionades amb els videojocs, algunes altres amb el desenvolupament web i altres amb la ciència de dades.
 
 **Hola Món**  
-
+![](imatges/PythonHW.png)
 **Hola User**  
-
+![](imatges/PythonHU.png)
 ### JAVA  
 
 Java es un llenguatge orientat a objectes que ens permet desenvolupar aplicacions mòbils, disseny web o accedir a bases de dades entre d’altres usos.
