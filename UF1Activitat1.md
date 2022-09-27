@@ -36,11 +36,9 @@ Les ofertes de treball relacionades amb aquest llenguatge demanen en la majoria 
 ### JAVASCRIPT
 
 **Hola Món**  
-  
-  
+![](imatges/JavaScriptHW.png)  
 **Hola User**  
- 
-
+![](imatges/JavaScriptHU.png) 
 
 ### C#
 
