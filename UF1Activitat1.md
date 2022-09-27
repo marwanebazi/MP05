@@ -33,7 +33,16 @@ Les ofertes de treball relacionades amb aquest llenguatge demanen en la majoria 
 ![](imatges/JavaHU2.png)
 ![](imatges/JavaHU.png) 
 
-## JAVASCRIPT
+## JAVASCRIPT  
+
+Javascript es un llenguatge interpretat, imperatiu i orientat a objectes. La seva principal funció és donar vida a les pàgines web permeten la interacció. Majoritàriament s’executa a la part del client, però també es pot executar a la part del servidor gràcies a Node.js.
+
+La primera vegada que va aparèixer Javascript va ser l’any 1995. El seu desenvolupador, Brendan Eich, el va anomenar Mocha i després va canviar-li el nom a LiveScript. El nom Javascript el va adoptar quan Netscape va afegir compatibilitat al seu navegador amb Java.
+ 
+La seva sintaxis, basada en Java, es una de les seves principals avantatges ja que és fàcil d’entendre per l’usuari. La velocitat és un altre dels punts forts ja que s’executa immediatament al navegador. El fet que s’executi a la part del client també suposa una desavantatja ja que si hi ha algun bug o error pot ser explotat.
+
+La gran majoria d’ofertes de treball, per no dir totes, demanen coneixement d’HTML i CSS, PHP, NodeJS o frameworks com Angular o React. Els sous que s’ofereixen van entre 18.000 i 36.000 euros segons l’experiència i les funcions a desenvolupar.
+
 
 **Hola Món**  
 ![](imatges/JavaScriptHW.png)  
@@ -48,3 +57,14 @@ Les ofertes de treball relacionades amb aquest llenguatge demanen en la majoria 
 ![](imatges/CHU.png)  
 
 ## WEBGRAFIA
+[InfoJobs](https://www.infojobs.net/)  
+[Tiobe](https://www.tiobe.com/tiobe-index/)  
+[UNAM](https://docencia.tic.unam.mx/presenciales/Lenguaje-de-programacion-java.html)  
+[Crehana](https://www.crehana.com/blog/desarrollo-web/que-es-java/)  
+[Assembler Institute](https://assemblerinstitute.com/blog/tipos-lenguaje-programacion/)  
+[Banco Santander](https://www.becas-santander.com/es/blog/python-que-es.html)  
+[Aula 21](https://www.cursosaula21.com/que-es-python/)  
+[Soy Rafa Ramos](https://soyrafaramos.com/que-es-javascript-para-que-sirve/)  
+[LenguajeJS](https://lenguajejs.com/javascript/)  
+[C Sharp - Wikipedia](https://es.wikipedia.org/wiki/C_Sharp)  
+[BeSoftware](https://bsw.es/que-es-c/)  
