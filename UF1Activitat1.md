@@ -86,9 +86,7 @@ public class HelloUser {
 		String nom = input.next();
 
 		System.out.println("Hola " + nom);
-
 	}
-
 }
 ```
 ## JAVASCRIPT  
