@@ -1,5 +1,35 @@
 # ACTIVITAT 1: RECERCA DE LLENGUATGES DE PROGRAMACIÓ
 
+Es tracta de que feu un treball analitzant les principals característiques dels principals llenguatges de programació segons l'índex [TIOBE](https://www.tiobe.com/tiobe-index/) que mesura la popularitat d'un llenguatge segons les referències que se'n fan a la Web.
+
+Haureu d’escollir **Python** i **Java**, a més de 2 llenguatges més del TOP 20 que us resultin interessants, **4 llenguatges en total**.
+
+D'aquests llenguatges heu de comentar obligatòriament els següents aspectes: 
+- Naixement, creadors i evolució històrica. 
+- Característiques del llenguatge. 
+  - Imperatiu, declaratiu, OOP... 
+  - Compilat, interpretat, híbrid... 
+  - Principals novetats o aportacions respecte altres llenguatges. 
+  - Avantatges i inconvenients respecte altres llenguatges. 
+- Principals entorns on es fa servir el llenguatge. 
+- Exemple de codi (valoraré especialment si mostreu que ho heu implementat i provat). 
+  - Hola mòn (Molt fàcil de trobar). 
+  - Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més). 
+- Buscar com estan les ofertes de treball a Infojobs del llenguatge.
+- WebGrafia.
+
+Valoraré molt especialment que feu un treball personal, i que no us limiteu a enganxar informació trobada a Internet. 
+
+Intenteu entendre els termes tècnics que feu servir, i si teniu algun dubte podeu preguntar. 
+
+No serveix de res fer un treball que no entengueu vosaltres mateixos. 
+
+L’aspecte en un treball sempre és important. 
+
+Intenteu ser una mica polits, i sobretot, doneu un repàs a les faltes d'ortografia.
+
+Podeu fer servir imatges rellevants.
+
 ## PYTHON  
 
 Python es un llenguatge utilitzat en múltiples camps com poden ser la intel·ligència artificial, desenvolupament web o desenvolupament de videojocs. Es un llenguatge d’alt nivell interpretat, orientat a objectes.
@@ -11,9 +41,16 @@ Algunes de les moltes avantatges que ens ofereix Python son la seva gran compati
 Les ofertes de treball relacionades amb Python son molt variades i de diferents sectors, algunes estan relacionades amb els videojocs, algunes altres amb el desenvolupament web i altres amb la ciència de dades.
 
 **Hola Món**  
-![](imatges/PythonHW.png)
+``` 
+print("Hola món") 
+```  
+
 **Hola User**  
-![](imatges/PythonHU.png)
+```
+nom = input("Com et dius? ")
+print("Hola", nom + "!")
+```
+
 ## JAVA  
 
 Java es un llenguatge orientat a objectes que ens permet desenvolupar aplicacions mòbils, disseny web o accedir a bases de dades entre d’altres usos.
@@ -27,12 +64,33 @@ Algunes de les principals avantatges que ens ofereix Java són la seva versatili
 Les ofertes de treball relacionades amb aquest llenguatge demanen en la majoria dels casos un mínim de 2 anys d'experiència, els sou oferit oscil·la entre els 20.000 i els 40.000 euros. La majoria d’ofertes donen l’opció de treballar en remot.
 
 **Hola Món**  
-![](imatges/JavaHW.png)  
-![](imatges/JavaHW2.png)  
-**Hola User**    
-![](imatges/JavaHU2.png)
-![](imatges/JavaHU.png) 
+```
+class HolaMon {
+    public static void main(String[] args) {
+        System.out.println("Hola món!"); 
+    }
+}
+```
 
+**Hola User**    
+```
+import java.util.Scanner;
+
+public class HelloUser {
+
+	public static void main(String[] args) {
+
+		System.out.println("Com et dius?");
+
+		Scanner input = new Scanner(System.in);
+		String nom = input.next();
+
+		System.out.println("Hola " + nom);
+
+	}
+
+}
+```
 ## JAVASCRIPT  
 
 Javascript es un llenguatge interpretat, imperatiu i orientat a objectes. La seva principal funció és donar vida a les pàgines web permeten la interacció. Majoritàriament s’executa a la part del client, però també es pot executar a la part del servidor gràcies a Node.js.
@@ -45,16 +103,41 @@ La gran majoria d’ofertes de treball, per no dir totes, demanen coneixement d�
 
 
 **Hola Món**  
-![](imatges/JavaScriptHW.png)  
+```
+console.log('Hola món');
+```
 **Hola User**  
-![](imatges/JavaScriptHU.png) 
+```
+var nom = prompt("Com et dius?");
+console.log("Hola " + nom);
+```
 
 ## C#
 
 **Hola Món**  
-![](imatges/CHW.png)  
+```
+namespace HolaMon
+{
+    class Hola {         
+        static void Main(string[] args)
+        {
+            System.Console.WriteLine("Hola món");
+        }
+    }
+}
+```
 **Hola User**  
-![](imatges/CHU.png)  
+```
+using System;
+
+class MainClass {
+  public static void Main (string[] args) {
+    Console.WriteLine ("Com et dius?");
+    string nom = Console.ReadLine();
+    Console.WriteLine("Hola {0}", nom); 
+   }
+}
+```
 
 ## WEBGRAFIA
 [InfoJobs](https://www.infojobs.net/)  
