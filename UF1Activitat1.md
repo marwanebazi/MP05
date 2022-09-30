@@ -30,7 +30,7 @@ Intenteu ser una mica polits, i sobretot, doneu un repàs a les faltes d'ortogra
 
 Podeu fer servir imatges rellevants.
 
-## PYTHON  
+## <img src="imatges/python.png" alt="python" width="40"/>     
 
 Python es un llenguatge utilitzat en múltiples camps com poden ser la intel·ligència artificial, desenvolupament web o desenvolupament de videojocs. Es un llenguatge d’alt nivell interpretat, orientat a objectes.
 
@@ -51,7 +51,7 @@ nom = input("Com et dius? ")
 print("Hola", nom + "!")
 ```
 
-## JAVA  
+## <img src="imatges/java.png" alt="java" width="40"/>   
 
 Java es un llenguatge orientat a objectes que ens permet desenvolupar aplicacions mòbils, disseny web o accedir a bases de dades entre d’altres usos.
 
@@ -89,7 +89,7 @@ public class HelloUser {
 	}
 }
 ```
-## JAVASCRIPT  
+## <img src="imatges/javascript.png" alt="javascript" width="40"/>   
 
 Javascript es un llenguatge interpretat, imperatiu i orientat a objectes. La seva principal funció és donar vida a les pàgines web permeten la interacció. Majoritàriament s’executa a la part del client, però també es pot executar a la part del servidor gràcies a Node.js.
 
@@ -110,7 +110,15 @@ var nom = prompt("Com et dius?");
 console.log("Hola " + nom);
 ```
 
-## C#
+## <img src="imatges/CSharp.png" alt="CSharp" width="40"/>   
+
+Després de participar en el desenvolupament de J++ i Delphi, Anders Hejlsberg va crear C# l’any 2000, aquest llenguatge forma part de la plataforma .NET de Microsoft.
+
+Els principals usos que te C# son la creació de videojocs usant Unity i el desenvolupament de software per a Windows mitjançant l’entorn Microsoft Visual Studio. Es un llenguatge compilat a bytecode, orientat a objectes i imperatiu.
+
+C# té una gran comunitat i una sintaxis fàcil d’aprendre per a l’usuari, similar a la de Java, també hi ha una gran quantitat de documentació que ajuden a aprendre ràpidament el llenguatge. A més a més C# ofereix un gran rendiment ja que el seu temps de resposta és curt. El principal inconvenient és el seu entorn Visual Studio .NET.
+
+La majoria d’ofertes de treball donen l’opció de treballar telemàticament, els sous es tan entre els 18.000 i els 22.000 euros per als programadors amb menys experiència i entre 24.000 i 36.000 per als programadors senior.  
 
 **Hola Món**  
 ```
