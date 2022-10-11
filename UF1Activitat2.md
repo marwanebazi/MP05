@@ -33,11 +33,15 @@ Escolliu 3 llenguatges de programació, un de compilat, un d’interpretat i un 
 
 ## <img src="imatges/Activitat1/python.png" alt="python" width="20"/> Python
 
+Algunes de les moltes avantatges que ens ofereix Python son la seva gran compatibilitat amb tots els sistemes operatius, és un llenguatge relativament fàcil d'aprendre ja que la seva sintaxis no és molt complicada i ens permet crear programes amb poques línies de codi. A més a més Python té una comunitat molt gran ja que és de codi obert. Alguna de les desavantatges que pot presentar Python es que pot arribar a ser un poc lent i tenir un alt consum de memòria.  
 ```
 import random
 print(random. randrange(6))
 ```
-Alguns dels IDEs que podem usar per a progrmar amb Pyhton són PyDev, PyCharm o Spyder.
+Alguns dels IDEs que podem usar per a progrmar amb Pyhton són PyDev, PyCharm o Spyder.  
+<p align="center">
+    <img src="imatges/Activitat2/PyCharm.png" alt="pycharm" width="150"/>
+</p>
 
 ## <img src="imatges/Activitat2/logocobol.png" alt="java" width="20"/> Cobol
 
@@ -66,9 +70,13 @@ procedure division.
 end program d6.
 ```
 
-Per programar amb Cobol podem usar OpenCobol IDE, Notepad++ o isCobol.
+Per programar amb Cobol podem usar OpenCobol IDE, Notepad++ o isCobol.  
+<p align="center">
+    <img src="imatges/Activitat2/opencobol.png" alt="pycharm" width="150"/>
+</p>
 
 ## <img src="imatges/Activitat1/logojava.png" alt="java" width="20"/> Java
+Algunes de les principals avantatges que ens ofereix Java són la seva versatilitat i la seva capacitat multiplataforma, es pot usar per crear tot tipus d’aplicacions en qualsevol sistema operatiu. Les principals desavantatges del llenguatge són la seva sintaxis ja que és més complexa comparada amb llenguatges com Python, a més el fet d’usar la maquina virtual JVM fa que el llenguatge sigui totalment dependent d’aquesta.  
 
 ```
 import java.util.Random;
@@ -85,3 +93,6 @@ public class Dado {
 }
 ```
 Alguns dels IDEs més usats per programar amb Java són IntelliJ, NetBeans o Eclipse.
+<p align="center">
+    <img src="imatges/Activitat2/NetBeans.png" alt="pycharm" width="150"/>
+</p>
