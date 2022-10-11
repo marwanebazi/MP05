@@ -33,6 +33,10 @@ Escolliu 3 llenguatges de programació, un de compilat, un d’interpretat i un 
 
 ## Python
 
+```
+import random
+print(random. randrange(6))
+```
 Alguns dels IDEs que podem usar per a progrmar amb Pyhton són PyDev, PyCharm o Spyder.
 
 ## Cobol
@@ -41,4 +45,18 @@ Per programar amb Cobol podem usar OpenCobol IDE, Notepad++ o isCobol.
 
 ## Java
 
+```
+import java.util.Random;
+
+public class Dado {
+    public static void main(String[] args) {
+
+
+        int numAleatori = 1;
+        Random rd = new Random();
+        numAleatori = rd.nextInt(7);
+        System.out.println(numAleatori);
+    }
+}
+```
 Alguns dels IDEs més usats per programar amb Java són IntelliJ, NetBeans o Eclipse.
