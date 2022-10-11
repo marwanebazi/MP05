@@ -30,7 +30,7 @@ Intenteu ser una mica polits, i sobretot, doneu un repàs a les faltes d'ortogra
 
 Podeu fer servir imatges rellevants.
 
-## <img src="imatges/python.png" alt="python" width="20"/> PYTHON     
+## <img src="imatges/Activitat1/python.png" alt="python" width="20"/> PYTHON     
 
 Python es un llenguatge utilitzat en múltiples camps com poden ser la intel·ligència artificial, desenvolupament web o desenvolupament de videojocs. Es un llenguatge d’alt nivell interpretat, orientat a objectes.
 
@@ -51,7 +51,7 @@ nom = input("Com et dius? ")
 print("Hola", nom + "!")
 ```
 
-## <img src="imatges/logojava.png" alt="java" width="20"/> JAVA   
+## <img src="imatges/Activitat1/logojava.png" alt="java" width="20"/> JAVA   
 
 Java es un llenguatge orientat a objectes que ens permet desenvolupar aplicacions mòbils, disseny web o accedir a bases de dades entre d’altres usos.
 
@@ -89,7 +89,7 @@ public class HelloUser {
 	}
 }
 ```
-## <img src="imatges/javascript.png" alt="javascript" width="20"/> JAVASCRIPT   
+## <img src="imatges/Activitat1/javascript.png" alt="javascript" width="20"/> JAVASCRIPT   
 
 Javascript es un llenguatge interpretat, imperatiu i orientat a objectes. La seva principal funció és donar vida a les pàgines web permeten la interacció. Majoritàriament s’executa a la part del client, però també es pot executar a la part del servidor gràcies a Node.js.
 
@@ -110,7 +110,7 @@ var nom = prompt("Com et dius?");
 console.log("Hola " + nom);
 ```
 
-## <img src="imatges/logocsharp.png" alt="CSharp" width="20"/> C#   
+## <img src="imatges/Activitat1/logocsharp.png" alt="CSharp" width="20"/> C#   
 
 Després de participar en el desenvolupament de J++ i Delphi, Anders Hejlsberg va crear C# l’any 2000, aquest llenguatge forma part de la plataforma .NET de Microsoft.
 
