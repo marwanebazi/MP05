@@ -31,7 +31,7 @@ Escolliu 3 llenguatges de programació, un de compilat, un d’interpretat i un 
 - Expliqueu els avantatges d’utilitzar un llenguatge de MV i els punts febles.
 - Busqueu 3 IDEs de desenvolupament pel llenguatge. 
 
-## Python
+## <img src="imatges/Activitat1/python.png" alt="python" width="20"/> Python
 
 ```
 import random
@@ -39,11 +39,36 @@ print(random. randrange(6))
 ```
 Alguns dels IDEs que podem usar per a progrmar amb Pyhton són PyDev, PyCharm o Spyder.
 
-## Cobol
+## <img src="imatges/Activitat2/logocobol.png" alt="java" width="20"/> Cobol
+
+```
+identification division.
+program-id. d6.
+
+environment division.
+configuration section.
+
+data division.
+working-storage section.
+01 hora.
+
+    05 hh pic 6.
+    05 hm pic 6.
+    05 hs pic 6.
+    05 hx pic 6.
+
+procedure division.
+    accept hora from time
+
+    display hx
+    stop ' '
+    goback.
+end program d6.
+```
 
 Per programar amb Cobol podem usar OpenCobol IDE, Notepad++ o isCobol.
 
-## Java
+## <img src="imatges/Activitat1/logojava.png" alt="java" width="20"/> Java
 
 ```
 import java.util.Random;
