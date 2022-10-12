@@ -57,7 +57,7 @@ Java es un llenguatge orientat a objectes que ens permet desenvolupar aplicacion
 
 Aquest llenguatge de programació va ser dissenyat per un equip de treballadors de Sun Microsystems liderats per James Gosling l’any 1991. L’any 1995 va ser publicada la primera versió. Oracle va comprar Sun Microsystems l’any 2010, apropiant-se d’aquesta manera del llenguatge.
 
-La sintaxis de Java esta basada en la del llenguatge C, es un llenguatge imperatiu que s’executa en maquina virtual.
+La sintaxis de Java esta basada en la del llenguatge C, es un llenguatge  que s’executa en maquina virtual.
 
 Algunes de les principals avantatges que ens ofereix Java són la seva versatilitat i la seva capacitat multiplataforma, es pot usar per crear tot tipus d’aplicacions en qualsevol sistema operatiu. Les principals desavantatges del llenguatge són la seva sintaxis ja que és més complexa comparada amb llenguatges com Python, a més el fet d’usar la maquina virtual JVM fa que el llenguatge sigui totalment dependent d’aquesta.
 
