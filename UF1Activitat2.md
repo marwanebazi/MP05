@@ -31,6 +31,18 @@ Escolliu 3 llenguatges de programació, un de compilat, un d’interpretat i un 
 - Expliqueu els avantatges d’utilitzar un llenguatge de MV i els punts febles.
 - Busqueu 3 IDEs de desenvolupament pel llenguatge. 
 
+## COMPILAT, INTERPRETAT O MV?  
+
+Els llenguatges compilats es converteixen directament a codi màquina per ser executat pel processador. Aquests llenguatges solen tenir una execució més ràpida i permeten al programador controlar la gestió de memòria i de processador.   
+
+Els llenguatges interpretats depenen de l’intèrpret que executa el codi instrucció per instrucció. Solen ser més lents que els llenguatges compilats, una de les principals avantatges és la seva portabilitat, a diferència dels llenguatges compilats no cal adaptar el codi si canvies el teu programa de plataforma.    
+
+Els llenguatges executats en màquina virtual ofereixen una total portabilitat sempre i quan la plataforma on volem executar el nostre programa tingui implementada la màquina virtual. Això fa que el nostre codi font sigui sempre el mateix però som totalment dependents de la màquina virtual.  
+
+<p align="center">
+    <img src="imatges/Activitat2/lenguajes.jpg" alt="llenguatges"/>
+</p>  
+
 ## <img src="imatges/Activitat1/python.png" alt="python" width="20"/> Python
 
 Algunes de les moltes avantatges que ens ofereix Python son la seva gran compatibilitat amb tots els sistemes operatius, és un llenguatge relativament fàcil d'aprendre ja que la seva sintaxis no és molt complicada i ens permet crear programes amb poques línies de codi. A més a més Python té una comunitat molt gran ja que és de codi obert. Alguna de les desavantatges que pot presentar Python es que pot arribar a ser un poc lent i tenir un alt consum de memòria.  
