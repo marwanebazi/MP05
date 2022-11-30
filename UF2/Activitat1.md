@@ -42,8 +42,9 @@ public class proves {
 }
 ```
 
-  - **Diagrama:**
-  - **Resultat CC:**
+  - **Diagrama:**  
+  ![image](https://user-images.githubusercontent.com/113586070/204755943-d89f8ef7-b04f-450d-9884-6148dfcfd76a.png)  
+  - **Resultat CC:** 15 - 12 + 2 = 5
 
 4. Dibuixa el diagrama de flux representat per aquest codi, calcula la seva CC i crea una prova per a cada camí posible:
 
