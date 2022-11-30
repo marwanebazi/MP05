@@ -17,8 +17,11 @@ Per dibuixar els diagrames de flux podeu fer servir [draw.io](https://draw.io) o
 
   - **Diagrama:**  
  ![image](https://user-images.githubusercontent.com/113586070/204749770-991773c6-ccd8-48a9-a8e9-251ea829b3ad.png)  
-  - **Resultat CC:** 8 - 7 + 2 = 3
+  - **Resultat CC:** 8 - 7 + 2 = 3  
   - **Resultat proves camins:**  
+  Prova 1: A = 205  
+  Prova 2: A = 354, B = 10 i C = 3  
+  Prova 3: A = 354, B = 10 i C = 15
 
 3. Dibuixa el diagrama de flux representat per aquest codi i després calcula la seva CC:
 
@@ -45,7 +48,13 @@ public class proves {
 
   - **Diagrama:**  
   ![image](https://user-images.githubusercontent.com/113586070/204755943-d89f8ef7-b04f-450d-9884-6148dfcfd76a.png)  
-  - **Resultat CC:** 15 - 12 + 2 = 5
+  - **Resultat CC:** 15 - 12 + 2 = 5  
+  - **Resultat proves camins:**  
+  Prova 1: Temperatura = -5   
+  Prova 2: Temperatura = 7   
+  Prova 3: Temperatura = 15  
+  Prova 4: Temperatura = 27  
+  Prova 5: Temperatura = 47  
 
 4. Dibuixa el diagrama de flux representat per aquest codi, calcula la seva CC i crea una prova per a cada camí posible:
 
