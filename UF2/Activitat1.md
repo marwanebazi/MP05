@@ -67,7 +67,8 @@ public class proves {
         return llums;
     }
 ```
-  - **Diagrama:**
+  - **Diagrama:**  
+  ![image](https://user-images.githubusercontent.com/113586070/205626837-15e17667-b28a-4ed7-9c68-6be8efe84f6e.png)  
   - **Resultat CC:**
   - **Resultat proves camins:**
 
