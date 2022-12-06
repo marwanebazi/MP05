@@ -77,7 +77,7 @@ public class proves {
 
 5. Investiga sobre les proves de caixa negra:
 
-  - Què són?
-  - Quina diferència principal tenen sobre les de caixa blanca?
+  - Què són? Són proves on estudiem els resultats basant-nos en les entrades que res i els resultats que retorna, sense tenir en compte el funcionament intern.
+  - Quina diferència principal tenen sobre les de caixa blanca? La principal diferència es que les proves de caixa blanca estan destinades a comprovar el funcionament intern i en canvi les de caixa negres es basen en les dades d'entrada i sortida.
 
 
