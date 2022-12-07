@@ -31,8 +31,25 @@ public class PizzeriaPepe {
     }
 }
 ```
-- Fer la taula amb les particions equivalents i casos vàlids i no vàlids.
-- Fer la taula amb l'anàlisis de valors límit i casos vàlids i no vàlids.
+- Fer la taula amb les particions equivalents i casos vàlids i no vàlids.  
+
+| Paràmetre entrada | Regla a aplicar | Classes vàlides | Classes no vàlides |
+| ----------- | ----------- | ----------- | ----------- |
+| Pizzes | És un número? + rang valors (0 - 10) | 1. Pizzes <0 10 | 2. Pizzes > 10 <br> 3. No es numero |  
+
+| Classes | Pizzes | Sortida | 
+| ----------- | ----------- | ----------- |
+| 1 | 7 | True |
+| 2 | 11 | False |
+| 3 | finestra | Error |
+
+- Fer la taula amb l'anàlisis de valors límit i casos vàlids i no vàlids.  
+
+| Classes | Pizzes | Sortida | 
+| ----------- | ----------- | ----------- |
+| 4 | 10 | True |
+| 5 | 9 | True |
+| 6 | 11 | False |  
 
 ### Transports Jean Claude:
 
