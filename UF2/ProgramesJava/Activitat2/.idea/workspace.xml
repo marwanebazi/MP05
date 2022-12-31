@@ -5,19 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc2785a7-8fc6-41b1-9dbf-87a9c17ff36a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ControlTemperatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TransportsJeanCloud.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pizzeriaPepeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ControlTemperaturaTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PizzeriaPepe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PizzeriaPepe.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OPEN_IN_BROWSER" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="$USER_HOME$/Escriptori" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -41,9 +50,81 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "/home/alumne/Documents/MP05/UF2/ProgramesJava/Activitat2",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ControlTemperaturaTest.prova6">
+    <configuration name="ControlTemperaturaTest.prova1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Activitat2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ControlTemperaturaTest" />
+      <option name="METHOD_NAME" value="prova1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ControlTemperaturaTest.prova2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Activitat2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ControlTemperaturaTest" />
+      <option name="METHOD_NAME" value="prova2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ControlTemperaturaTest.prova3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Activitat2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ControlTemperaturaTest" />
+      <option name="METHOD_NAME" value="prova3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ControlTemperaturaTest.prova4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Activitat2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ControlTemperaturaTest" />
+      <option name="METHOD_NAME" value="prova4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ControlTemperaturaTest.prova6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Activitat2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ControlTemperaturaTest" />
+      <option name="METHOD_NAME" value="prova6" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ControlTemperaturaTest.prova6" />
+        <item itemvalue="JUnit.ControlTemperaturaTest.prova1" />
+        <item itemvalue="JUnit.ControlTemperaturaTest.prova3" />
+        <item itemvalue="JUnit.ControlTemperaturaTest.prova4" />
+        <item itemvalue="JUnit.ControlTemperaturaTest.prova2" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,6 +135,13 @@
       <updated>1670399079686</updated>
       <workItem from="1670399080937" duration="493000" />
       <workItem from="1670402905359" duration="607000" />
+      <workItem from="1670403538003" duration="306000" />
+      <workItem from="1670849889402" duration="17000" />
+      <workItem from="1671003068756" duration="5520000" />
+      <workItem from="1671041824479" duration="36000" />
+      <workItem from="1671218506710" duration="20000" />
+      <workItem from="1671218640197" duration="8000" />
+      <workItem from="1672507349185" duration="3259000" />
     </task>
     <servers />
   </component>
@@ -75,5 +163,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Activitat2$pizzeriaPepeTest.ic" NAME="pizzeriaPepeTest Coverage Results" MODIFIED="1671004760708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

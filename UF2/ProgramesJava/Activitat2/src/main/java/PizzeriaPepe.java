@@ -1,18 +1,12 @@
 import java.util.Scanner;
 
 public class PizzeriaPepe {
-    public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
-        int pizzes;
-        boolean resposta = true;
 
-        System.out.println("Introdueix el numero de pizzes:");
-        pizzes = input.nextInt();
-
-        if (pizzes > 10){
-            resposta = false;
+    public static boolean potCarregar(int pizzes){
+        boolean pot = false;
+        if (pizzes <= 10 && pizzes >= 1) {
+            pot = true;
         }
-
-        System.out.println(resposta);
+        return pot;
     }
 }
