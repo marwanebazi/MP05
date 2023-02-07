@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f16622a1-7857-4fe0-8942-14814c86c443" name="Changes" comment="" />
+    <list default="true" id="f16622a1-7857-4fe0-8942-14814c86c443" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../ProgramesJava/Activitat2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgramesJava/Activitat2/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,15 +31,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/alumne/Documents/MP05/UF2/ONG&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/alumne/Documents/MP03/Explicacions"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,6 +57,10 @@
       <workItem from="1674112379459" duration="20000" />
       <workItem from="1674117437850" duration="13000" />
       <workItem from="1674734064126" duration="626000" />
+      <workItem from="1674926583083" duration="2819000" />
+      <workItem from="1675008378949" duration="15000" />
+      <workItem from="1675097764507" duration="4520000" />
+      <workItem from="1675149141781" duration="18000" />
     </task>
     <servers />
   </component>
