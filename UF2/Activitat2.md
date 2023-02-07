@@ -64,6 +64,20 @@ Si una càrrega no es pot portar el programa retorna -1, en cas contrari retorna
 Es demana:
 
 - Fer el codi font del programa.
+```
+public class TransportsJeanCloud {
+    public static int kilos(int pes, int capacitat){
+        int resposta;
+
+        if (pes >= 500 && pes <= 900 && capacitat >= 500 && capacitat <= 750 && pes <= capacitat){
+            resposta = 0;
+        } else {
+            resposta = -1;
+        }
+        return resposta;
+    }
+}
+```
 - Fer la taula amb les particions equivalents i casos vàlids i no vàlids.
 - Fer la taula amb l'anàlisis de valors límit i casos vàlids i no vàlids.
 
@@ -86,6 +100,24 @@ Si la temperatura del medidor és més baixa que la del termostat en més de dos
 Es demana:
 
 - Fer el codi font del programa.
+```
+public class ControlTemperatura {
+    public static int potencia(int temperatura, int termostat) {
+        int sortida = 0;
+
+        if (temperatura > termostat) {
+            sortida = 0;
+        } if (temperatura - termostat == 0 || temperatura - termostat == 1 || temperatura - termostat == 2 ||
+          temperatura - termostat == -1 || temperatura - termostat == -2){
+            sortida = 1;
+        } else {
+            sortida = 2;
+        }
+
+        return sortida;
+    }
+}
+```
 - Fer la taula amb les particions equivalents i casos vàlids i no vàlids.
 - Fer la taula amb l'anàlisis de valors límit i casos vàlids i no vàlids.
 
