@@ -4,8 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f16622a1-7857-4fe0-8942-14814c86c443" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../ProgramesJava/Activitat2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgramesJava/Activitat2/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="29d88d9e-5ab8-4bbf-a05f-6242b97d0cd6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/majorEdat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/persona.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,12 +28,12 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2KAkrQgBbJ7hAg7OkJ2MgA9HK7R" />
+  <component name="ProjectId" id="2LlaPqxXhCMkF3WAdNSdIXvG2Xt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,33 +45,18 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/alumne/Documents/MP03/mp3-uf3-excepcions-marwanebazi"
+    "last_opened_file_path": "/home/alumne/Documents/MP05/UF2/ONG"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f16622a1-7857-4fe0-8942-14814c86c443" name="Changes" comment="" />
-      <created>1673424974267</created>
+      <changelist id="29d88d9e-5ab8-4bbf-a05f-6242b97d0cd6" name="Changes" comment="" />
+      <created>1676448103174</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1673424974267</updated>
-      <workItem from="1673424975504" duration="6118000" />
-      <workItem from="1673434430694" duration="1762000" />
-      <workItem from="1673507057877" duration="42000" />
-      <workItem from="1673694247083" duration="1040000" />
-      <workItem from="1673869413563" duration="27000" />
-      <workItem from="1674026380613" duration="6187000" />
-      <workItem from="1674112379459" duration="20000" />
-      <workItem from="1674117437850" duration="13000" />
-      <workItem from="1674734064126" duration="626000" />
-      <workItem from="1674926583083" duration="2819000" />
-      <workItem from="1675008378949" duration="15000" />
-      <workItem from="1675097764507" duration="4520000" />
-      <workItem from="1675149141781" duration="18000" />
-      <workItem from="1675927338564" duration="900000" />
-      <workItem from="1675939329738" duration="23000" />
-      <workItem from="1675940077032" duration="14000" />
+      <updated>1676448103174</updated>
+      <workItem from="1676448104364" duration="2757000" />
     </task>
     <servers />
   </component>
