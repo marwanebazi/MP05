@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"bixest","l":"bixest()","u":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"bixest","l":"calculBixest(int)"},{"p":"<Unnamed>","c":"celsiusAFahrenheit","l":"calculTemperatura(double)"},{"p":"<Unnamed>","c":"celsiusAFahrenheit","l":"celsiusAFahrenheit()","u":"%3Cinit%3E()"}];updateSearchResults();
