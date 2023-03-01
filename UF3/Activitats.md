@@ -40,4 +40,4 @@ Utilitzarem [Lucid](https://lucid.app/) per crear els diagrames de classes segü
 ![image](https://user-images.githubusercontent.com/113586070/222084189-4ac83a77-0775-4784-91ed-3f21d7eba026.png)
 
 
-Penseu els seus atributs i operacions així com la visibilitat dels mateixos.
+# Herència:
