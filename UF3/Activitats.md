@@ -26,3 +26,18 @@ Object Management Group. És un consorci americà que té per objectiu l'estanda
 
 7. Què té que veure OMG amb UML?  
 OMG va doptar UML com a estàndard.  
+
+# Diagrames:
+Utilitzarem [Lucid](https://lucid.app/) per crear els diagrames de classes següents:
+
+1. persona.  
+![image](https://user-images.githubusercontent.com/113586070/222083986-84ad7862-5e26-473d-90a7-447702465071.png)
+2. llibre.  
+![image](https://user-images.githubusercontent.com/113586070/222084277-d8102efc-c5ff-4c50-8e10-d11d1d0dfcc9.png)
+3. vehicle.  
+![image](https://user-images.githubusercontent.com/113586070/222084373-bdfe7904-7913-46c3-9342-fd031fb45a72.png)
+4. ordinador.  
+![image](https://user-images.githubusercontent.com/113586070/222084189-4ac83a77-0775-4784-91ed-3f21d7eba026.png)
+
+
+Penseu els seus atributs i operacions així com la visibilitat dels mateixos.
