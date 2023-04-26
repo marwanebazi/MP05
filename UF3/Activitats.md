@@ -48,3 +48,5 @@ Utilitzarem [Lucid](https://lucid.app/) per crear els diagrames de classes segü
 ![image](https://user-images.githubusercontent.com/113586070/223493184-1fcea32a-ea92-49c7-87f4-b189417bc985.png)  
 
 # Relació:  
+
+# Enginyeria Inversa (Marwane i Oriol)  
