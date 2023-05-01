@@ -40,14 +40,14 @@ Utilitzarem [Lucid](https://lucid.app/) per crear els diagrames de classes segü
 ![image](https://user-images.githubusercontent.com/113586070/222084189-4ac83a77-0775-4784-91ed-3f21d7eba026.png)
 
 
-# Herència:
+### Herència:
 ![image](https://user-images.githubusercontent.com/113586070/223492888-c1b2450b-09c3-4861-afd9-52034b2e3cde.png)  
 ![image](https://user-images.githubusercontent.com/113586070/223492960-699c3ea2-1291-42da-b0ad-d3c95cfc793e.png)  
 ![image](https://user-images.githubusercontent.com/113586070/223493016-f9f39999-ca98-4bdd-afd8-1fad77904bd0.png)  
 ![image](https://user-images.githubusercontent.com/113586070/223493098-7c1ba5c2-7274-487c-9d69-ea6769b6960d.png)  
 ![image](https://user-images.githubusercontent.com/113586070/223493184-1fcea32a-ea92-49c7-87f4-b189417bc985.png)  
 
-# Relació:  
+### Relació:  
 
 # Enginyeria Inversa (Marwane i Oriol)  
 ### Calculadora
