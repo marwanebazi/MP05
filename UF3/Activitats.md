@@ -48,6 +48,42 @@ Utilitzarem [Lucid](https://lucid.app/) per crear els diagrames de classes segü
 ![image](https://user-images.githubusercontent.com/113586070/223493184-1fcea32a-ea92-49c7-87f4-b189417bc985.png)  
 
 ### Relació:  
+Escrivim quines associacions poden tenir les següents classes, nom d'associació i cardinalitat:
+
+1. persona, DNI.
+2. persona, comics.
+3. persona, tren.
+4. animal, persona.
+5. persona, persona.
+6. persona, cotxe.
+7. persona, adreça.
+8. taxi, client.  
+
+
+### Agregació: 
+Utilitzarem [Lucid](https://lucid.app/) per crear una agregació entre:
+
+1. ovelles, corral.
+2. animals, zoo.
+3. curs, estudiants.
+4. biblioteca, llibres.
+5. atletes, equip.
+
+### Composició:
+Utilitzarem [Lucid](https://lucid.app/) per crear 5 relacions de composició:
+
+1.
+2.
+3.
+4.
+5.
+
+### Classe Associativa:
+
+Utilitzarem [Lucid](https://lucid.app/) crea 2 relacions d'associació amb operacions o atributs propis:
+
+1.
+2.
 
 # Enginyeria Inversa (Marwane i Oriol)  
 ### Calculadora
