@@ -169,3 +169,14 @@ Ens demanen fer un treball de documentació dels següents passos (link a un rep
 3. Fer el diagrama de casos d'ús que penseu que tindria el joc (a Umbrello o Lucid).
 4. Fer el diagrama de seqüència total o d'algun cas d'ús específic que penseu que tindria el joc (a Umbrello o Lucid).
 
+# Diagrama d'activitats:
+
+### Activitat 1:
+Tenim un programa de reserves de pistes de pàdel. El programa permet, via web, escollir un horari per reservar una pista de pàdel i reservar-la previ pagament per passarel·la bancària. Un cop està reservada la pista rep un mail de confirmació.
+
+Divideix tot el que ha de fer el programa en activitats i després crea el diagrama d'activitats a [Lucid](https://lucid.app).
+
+
+### Activitat 2
+
+Utilitzant [alguna d'aquestes receptes de còctels sense alcohol](https://www.qdefesta.cat/recursos/upload/Coctels_%20sense_alcohol.pdf) feu un diagrama d'activitats seguint la recepta a [Lucid](https://lucid.app).
