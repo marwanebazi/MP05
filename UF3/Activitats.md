@@ -174,9 +174,13 @@ Ens demanen fer un treball de documentació dels següents passos (link a un rep
 ### Activitat 1:
 Tenim un programa de reserves de pistes de pàdel. El programa permet, via web, escollir un horari per reservar una pista de pàdel i reservar-la previ pagament per passarel·la bancària. Un cop està reservada la pista rep un mail de confirmació.
 
-Divideix tot el que ha de fer el programa en activitats i després crea el diagrama d'activitats a [Lucid](https://lucid.app).
+Divideix tot el que ha de fer el programa en activitats i després crea el diagrama d'activitats a [Lucid](https://lucid.app).  
+![image](https://user-images.githubusercontent.com/113586070/237060916-be7c2c61-25bc-4c3a-bbb5-eba5208d5b83.png)
+
 
 
 ### Activitat 2
 
-Utilitzant [alguna d'aquestes receptes de còctels sense alcohol](https://www.qdefesta.cat/recursos/upload/Coctels_%20sense_alcohol.pdf) feu un diagrama d'activitats seguint la recepta a [Lucid](https://lucid.app).
+Utilitzant [alguna d'aquestes receptes de còctels sense alcohol](https://www.qdefesta.cat/recursos/upload/Coctels_%20sense_alcohol.pdf) feu un diagrama d'activitats seguint la recepta a [Lucid](https://lucid.app).  
+![image](https://user-images.githubusercontent.com/113586070/237060774-9284d3f1-a297-4abb-b87f-934f12f5a304.png)
+
