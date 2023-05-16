@@ -58,6 +58,7 @@ Escrivim quines associacions poden tenir les següents classes, nom d'associaci�
 6. persona, cotxe.
 7. persona, adreça.
 8. taxi, client.  
+![image](https://github.com/marwanebazi/MP05/assets/113586070/6c0e8686-7a60-4588-a99c-8a494afbc73f)
 
 
 ### Agregació: 
@@ -67,23 +68,20 @@ Utilitzarem [Lucid](https://lucid.app/) per crear una agregació entre:
 2. animals, zoo.
 3. curs, estudiants.
 4. biblioteca, llibres.
-5. atletes, equip.
+5. atletes, equip.  
+![image](https://github.com/marwanebazi/MP05/assets/113586070/808a0f0f-2730-4af5-b01e-20879254a3f5)
+
 
 ### Composició:
 Utilitzarem [Lucid](https://lucid.app/) per crear 5 relacions de composició:
+![image](https://github.com/marwanebazi/MP05/assets/113586070/f8faf505-6bff-40c7-9e48-3a39021a9188)
 
-1.
-2.
-3.
-4.
-5.
 
 ### Classe Associativa:
 
 Utilitzarem [Lucid](https://lucid.app/) crea 2 relacions d'associació amb operacions o atributs propis:
+![image](https://github.com/marwanebazi/MP05/assets/113586070/7428c55a-04b3-4656-94c8-dc0d58be17f4)
 
-1.
-2.
 
 # Enginyeria Inversa (Marwane i Oriol)  
 ### Calculadora
@@ -179,8 +177,14 @@ Divideix tot el que ha de fer el programa en activitats i després crea el diagr
 
 
 
-### Activitat 2
+### Activitat 2:
 
 Utilitzant [alguna d'aquestes receptes de còctels sense alcohol](https://www.qdefesta.cat/recursos/upload/Coctels_%20sense_alcohol.pdf) feu un diagrama d'activitats seguint la recepta a [Lucid](https://lucid.app).  
 ![image](https://user-images.githubusercontent.com/113586070/237060774-9284d3f1-a297-4abb-b87f-934f12f5a304.png)
+
+# Diagrama d'estats:
+
+### Activitat 3:
+Fes el diagrama d'estat del controlador de l'aparell d'aire condicionat de la classe.  
+![image](https://github.com/marwanebazi/MP05/assets/113586070/9ef36478-ebeb-4ddf-9e06-8029a691224a)
 
